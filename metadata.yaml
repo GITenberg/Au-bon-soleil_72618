@@ -1,0 +1,36 @@
+_repo: Au-bon-soleil_72618
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arène, Paul
+    aliases:
+    - Arène, Paul Auguste
+    - Arene, Paul Auguste
+    birthdate: 1843
+    deathdate: 1896
+    gutenberg_agent_id: '39763'
+    url: http://www.gutenberg.org/2009/agents/39763
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Ar%C3%A8ne
+    - https://fr.wikipedia.org/wiki/Paul_Ar%C3%A8ne
+description: ''
+gutenberg_issued: '2024-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72618'
+language: fr
+pgterms:marc904: https://archive.org/details/aubonsoleil00ar
+pgterms:marc905: 20230618002730arne
+pgterms:marc906: '1881'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aParis :$bG. Charpentier, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Au bon soleil
+url: http://www.gutenberg.org/ebooks/72618
